@@ -1,0 +1,10 @@
+header h1{
+	background-image:url(boti.jpg);
+	background-position: top;
+	color: red;
+}
+img{
+width:370px;
+height:365px;
+padding-right: 4;
+}

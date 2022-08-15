@@ -1,0 +1,10 @@
+header h1{
+background-image: url(je.jpg);
+background-size:cover;
+background-repeat: no-repeat;
+color: black;
+background-position: top;
+}
+td{
+	border:4px solid black;
+}
